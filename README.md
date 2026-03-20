@@ -1,23 +1,23 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/shorts/vY-ew7m2mdk" target="_blank">
-      <img src="https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg" alt="Project Banner">
-    </a>
+  <a href="https://www.youtube.com/watch?v=vY-ew7m2mdk" target="_blank">
+    <img src="https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg" alt="Project Banner">
+  </a>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" />
-    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" />
-    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" />
+    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=FD366E" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   </div>
 
-  <h3 align="center">📱 Booking App</h3>
+  <h3 align="center">📱 Mobile Booking Application</h3>
 
-  <div align="center">
-    A modern mobile application for browsing, booking, and managing properties.
-  </div>
+  <p align="center">
+    A modern mobile application for browsing, booking, and managing properties with a clean and intuitive user experience.
+  </p>
 </div>
 
 ---
@@ -32,16 +32,18 @@
 6. 📂 Project Structure  
 7. 🚀 Highlights  
 8. 🔮 Future Improvements  
-9. 👨‍💻 Author  
 
 ---
 
 ## 🤖 Introduction
 
-Booking App is a full-stack mobile application built with React Native.  
-It allows users to explore properties, view detailed information, and perform booking actions in a simple and intuitive way.
+This is a full-stack mobile application built with **React Native**, designed to provide a seamless experience for exploring and booking properties.
 
-This project demonstrates real-world mobile development skills including UI/UX design, API integration, and state management.
+The project showcases practical development skills such as:
+- UI/UX design  
+- API integration  
+- State management  
+- Real-time data handling  
 
 ---
 
@@ -57,21 +59,25 @@ This project demonstrates real-world mobile development skills including UI/UX d
 
 ## 🔋 Features
 
-👉 🔍 Browse and search properties  
-👉 🏠 View property details (images, price, description)  
-👉 📅 Booking system  
-👉 🔐 Authentication (Google / Email)  
-👉 👤 User profile management  
-👉 ⚡ Fast and responsive UI  
-👉 🔄 Dynamic data fetching  
+- 🔍 Browse and search properties  
+- 🏠 View detailed property information  
+- 📅 Booking functionality  
+- 🔐 Authentication (Google / Email)  
+- 👤 User profile management  
+- ⚡ Fast and responsive UI  
+- 🔄 Dynamic data fetching  
 
 ---
 
 ## 🎥 Demo
 
-👉 Click vào ảnh dưới để xem demo:
+👉 Click the image below to watch the demo:
 
-[![Watch Demo](https://img.youtube.com/vi/vY-ew7m2mdk/0.jpg)](https://www.youtube.com/shorts/vY-ew7m2mdk)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=vY-ew7m2mdk" target="_blank">
+    <img src="https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg" alt="Watch Demo"/>
+  </a>
+</p>
 
 ---
 
@@ -87,9 +93,12 @@ Make sure you have:
 
 ---
 
-### 📥 Clone project
+### 📥 Clone Project
 
 ```bash
+git clone https://github.com/dinhminhtaicv-cyber/Booking.App.git
+cd Booking.App
+npm install
 git clone https://github.com/dinhminhtaicv-cyber/Booking.App.git
 cd Booking.App
 📦 Install dependencies
