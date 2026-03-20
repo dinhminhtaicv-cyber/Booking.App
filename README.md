@@ -1,6 +1,8 @@
 <div align="center">
   <br />
-[![Watch Demo](https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg)](https://www.youtube.com/watch?v=vY-ew7m2mdk)
+
+  [![Watch Demo](https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg)](https://www.youtube.com/watch?v=vY-ew7m2mdk)
+
   <br />
 
   <div>
@@ -14,7 +16,7 @@
   <h3 align="center">📱 Mobile Booking Application</h3>
 
   <p align="center">
-    A modern mobile application for browsing, booking, and managing properties with a clean and intuitive user experience.
+    A modern mobile application that allows users to explore, book, and manage properties with a smooth and intuitive experience.
   </p>
 </div>
 
@@ -22,26 +24,27 @@
 
 ## 📋 Table of Contents
 
-1. 🤖 Introduction  
-2. ⚙️ Tech Stack  
-3. 🔋 Features  
-4. 🎥 Demo  
-5. 🤸 Quick Start  
-6. 📂 Project Structure  
-7. 🚀 Highlights  
-8. 🔮 Future Improvements  
+- 🤖 Introduction  
+- ⚙️ Tech Stack  
+- 🔋 Features  
+- 🎥 Demo  
+- 🤸 Quick Start  
+- 📂 Project Structure  
+- 🚀 Highlights  
+- 🔮 Future Improvements  
 
 ---
 
 ## 🤖 Introduction
 
-This is a full-stack mobile application built with **React Native**, designed to provide a seamless experience for exploring and booking properties.
+This project is a full-stack mobile application built with **React Native**.
 
-The project showcases practical development skills such as:
-- UI/UX design  
+It focuses on delivering a seamless experience for browsing and booking properties while demonstrating real-world development skills such as:
+
+- Clean UI/UX design  
 - API integration  
 - State management  
-- Real-time data handling  
+- Dynamic data handling  
 
 ---
 
@@ -71,11 +74,7 @@ The project showcases practical development skills such as:
 
 👉 Click the image below to watch the demo:
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=vY-ew7m2mdk" target="_blank">
-    <img src="https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg" alt="Watch Demo"/>
-  </a>
-</p>
+[![Watch Demo](https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg)](https://www.youtube.com/watch?v=vY-ew7m2mdk)
 
 ---
 
@@ -83,15 +82,15 @@ The project showcases practical development skills such as:
 
 ### 📌 Prerequisites
 
-Make sure you have:
+Make sure you have installed:
 
-- Git  
 - Node.js  
-- npm  
+- npm or yarn  
+- Git  
 
 ---
 
-### 📥 Clone Project
+### 📥 Installation
 
 ```bash
 git clone https://github.com/dinhminhtaicv-cyber/Booking.App.git
