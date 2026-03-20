@@ -1,17 +1,16 @@
-<div align="center">
+<<div align="center">
   <br />
 
-  [![Watch Demo](https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg)](https://www.youtube.com/watch?v=vY-ew7m2mdk)
+  <a href="https://www.youtube.com/watch?v=vY-ew7m2mdk" target="_blank">
+    <img src="https://img.youtube.com/vi/vY-ew7m2mdk/0.jpg" alt="Watch Demo"/>
+  </a>
 
-  <br />
+  <p>
+    👉 If the video does not load, watch here:  
+    https://www.youtube.com/watch?v=vY-ew7m2mdk
+  </p>
 
-  <div>
-    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logo=expo&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=FD366E" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  </div>
+</div>
 
   <h3 align="center">📱 Mobile Booking Application</h3>
 
@@ -93,9 +92,6 @@ Make sure you have installed:
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/dinhminhtaicv-cyber/Booking.App.git
-cd Booking.App
-npm install
 git clone https://github.com/dinhminhtaicv-cyber/Booking.App.git
 cd Booking.App
 📦 Install dependencies
