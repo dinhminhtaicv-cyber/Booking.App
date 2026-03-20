@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-  <a href="https://www.youtube.com/watch?v=vY-ew7m2mdk" target="_blank">
-    <img src="https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg" alt="Project Banner">
-  </a>
+[![Watch Demo](https://img.youtube.com/vi/vY-ew7m2mdk/maxresdefault.jpg)](https://www.youtube.com/watch?v=vY-ew7m2mdk)
   <br />
 
   <div>
